@@ -1,7 +1,8 @@
 Spacedust for iTerm2
 ====================
 
-This theme is a port from [mhallendal]("https://github.com/mhallendal") as you
+This theme is a port from [mhallendal]("https://github.com/mhallendal")'s
+Spacedust theme as you
 can see here: [Spacedust's Blog post](http://simplyhacking.com/spacedust-xcode-theme.html) & [Spacedust's gist](https://gist.github.com/527103)
 
 I tried to be as faithful as possible, however some adaptations had to be made.
