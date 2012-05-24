@@ -1,5 +1,11 @@
-Spacedust for iTerm2
+Spacedust Theme
 ====================
+
+Supported Software in this Repository:
+=====================================
+ * [iTerm2](http://www.iterm2.com/)
+ * [MacOSX's Terminal](http://www.apple.com/macosx/apps/all.html#terminal)
+ * [Coda 2](http://panic.com/coda/)
 
 This theme is a port from [mhallendal](https://github.com/mhallendal)'s
 Spacedust theme as you
