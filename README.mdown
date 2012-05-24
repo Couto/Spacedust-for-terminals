@@ -21,14 +21,14 @@ Screenshots
 Colors
 ------
 ![iTerm2's spacedust
-colors](https://raw.github.com/Couto/Spacedust-iTerm2/master/spacedust-colors.png)
+colors](https://github.com/Couto/Spacedust-Themes/raw/master/spacedust-colors.png)
 
 Directory Listing
 -----------------
 
 and since I never really find the color scheme print really useful…
 
-![iTerm2's spacedust directory example](https://raw.github.com/Couto/Spacedust-iTerm2/master/directory-listing.png)
+![iTerm2's spacedust directory example](https://github.com/Couto/Spacedust-Themes/raw/master/directory-listing.png)
 
 ----
 
