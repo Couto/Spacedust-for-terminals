@@ -5,7 +5,6 @@ Supported Software in this Repository:
 =====================================
  * [iTerm2](http://www.iterm2.com/)
  * [MacOSX's Terminal](http://www.apple.com/macosx/apps/all.html#terminal)
- * [Coda 2](http://panic.com/coda/)
 
 This theme is a port from [mhallendal](https://github.com/mhallendal)'s
 Spacedust theme as you
@@ -21,16 +20,21 @@ Screenshots
 Colors
 ------
 ![iTerm2's spacedust
-colors](https://github.com/Couto/Spacedust-Themes/raw/master/spacedust-colors.png)
+colors](https://github.com/Couto/Spacedust-for-terminals/raw/master/spacedust-colors.png)
 
 Directory Listing
 -----------------
 
 and since I never really find the color scheme print really useful…
 
-![iTerm2's spacedust directory example](https://github.com/Couto/Spacedust-Themes/raw/master/directory-listing.png)
+![iTerm2's spacedust directory example](https://github.com/Couto/Spacedust-for-terminals/raw/master/directory-listing.png)
 
 ----
+
+Note
+====
+For other applications go to [mhallendal's spacedust
+repository](https://github.com/mhallendal/spacedust-theme)
 
 Credits
 =======
